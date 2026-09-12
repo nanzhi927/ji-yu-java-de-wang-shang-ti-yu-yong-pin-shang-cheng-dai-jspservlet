@@ -103,21 +103,21 @@ CREATE TABLE `t_goods` (
 -- ----------------------------
 -- Records of t_goods
 -- ----------------------------
-INSERT INTO `t_goods` VALUES ('1', '跳绳', '商品名称：跳绳<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127080440.jpg', 'J001', '30', 'no', null, '1', 'no', '4', '99');
-INSERT INTO `t_goods` VALUES ('2', '足球', '商品名称：足球<br />\r\n上市时间：2017-4<br />\r\n产地：巴西<br />\r\n<br />', '/upload/1457614594373.jpg', 'Q001', '500', 'no', null, '2', 'no', '8', '22');
-INSERT INTO `t_goods` VALUES ('3', '拳击手套', '商品名称：拳击手套<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127081039.jpg', 'W001', '100', 'no', null, '3', 'no', '2', '194');
-INSERT INTO `t_goods` VALUES ('4', '围棋', '商品名称：围棋<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127081520.jpg', 'Y001', '75', 'no', null, '4', 'no', '3', '99');
-INSERT INTO `t_goods` VALUES ('5', '仰卧板', '商品名称：仰卧板<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127080645.jpg', 'J002', '170', 'no', null, '1', 'no', '4', '194');
+INSERT INTO `t_goods` VALUES ('1', '跳绳', '商品名称：跳绳<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000000.jpg', 'J001', '30', 'no', null, '1', 'no', '4', '99');
+INSERT INTO `t_goods` VALUES ('2', '足球', '商品名称：足球<br />\r\n上市时间：2017-4<br />\r\n产地：巴西<br />\r\n<br />', '/upload/1380000000073.jpg', 'Q001', '500', 'no', null, '2', 'no', '8', '22');
+INSERT INTO `t_goods` VALUES ('3', '拳击手套', '商品名称：拳击手套<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000009.jpg', 'W001', '100', 'no', null, '3', 'no', '2', '194');
+INSERT INTO `t_goods` VALUES ('4', '围棋', '商品名称：围棋<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000000.jpg', 'Y001', '75', 'no', null, '4', 'no', '3', '99');
+INSERT INTO `t_goods` VALUES ('5', '仰卧板', '商品名称：仰卧板<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000005.jpg', 'J002', '170', 'no', null, '1', 'no', '4', '194');
 INSERT INTO `t_goods` VALUES ('6', '乒乓球拍', '商品名称：乒乓球拍<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/pai.jpg', 'Q002', '140', 'no', null, '2', 'no', '4', '296');
-INSERT INTO `t_goods` VALUES ('7', '双节棍', '商品名称：双节棍<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127081156.jpg', 'W002', '120', 'no', null, '3', 'no', '9', '390');
-INSERT INTO `t_goods` VALUES ('8', '国际象棋', '商品名称：国际象棋<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127081653.jpg', 'Y002', '170', 'no', null, '4', 'no', '3', '199');
-INSERT INTO `t_goods` VALUES ('9', '哑铃', '商品名称：哑铃<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127080833.jpg', 'J003', '110', 'no', null, '1', 'no', '8', '23');
-INSERT INTO `t_goods` VALUES ('10', '足球', '商品名称：足球<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127080119.jpg', 'Q003', '230', 'no', null, '2', 'no', '7', '298');
-INSERT INTO `t_goods` VALUES ('11', '太极服', '商品名称：太极服<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127081354.jpg', 'W003', '210', 'no', null, '3', 'no', '12', '148');
-INSERT INTO `t_goods` VALUES ('12', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127081826.jpg', 'Y003', '100', 'no', null, '4', 'yes', '15', '294');
-INSERT INTO `t_goods` VALUES ('13', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127082133.jpg', 'Y', '100', 'no', null, '4', 'yes', '0', '200');
-INSERT INTO `t_goods` VALUES ('14', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127082133.jpg', 'Y003', '100', 'no', null, '4', 'yes', '0', '150');
-INSERT INTO `t_goods` VALUES ('15', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20181127082000.jpg', 'Y003', '100', 'no', null, '4', 'no', '10', '110');
+INSERT INTO `t_goods` VALUES ('7', '双节棍', '商品名称：双节棍<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000006.jpg', 'W002', '120', 'no', null, '3', 'no', '9', '390');
+INSERT INTO `t_goods` VALUES ('8', '国际象棋', '商品名称：国际象棋<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000003.jpg', 'Y002', '170', 'no', null, '4', 'no', '3', '199');
+INSERT INTO `t_goods` VALUES ('9', '哑铃', '商品名称：哑铃<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000003.jpg', 'J003', '110', 'no', null, '1', 'no', '8', '23');
+INSERT INTO `t_goods` VALUES ('10', '足球', '商品名称：足球<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000009.jpg', 'Q003', '230', 'no', null, '2', 'no', '7', '298');
+INSERT INTO `t_goods` VALUES ('11', '太极服', '商品名称：太极服<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000004.jpg', 'W003', '210', 'no', null, '3', 'no', '12', '148');
+INSERT INTO `t_goods` VALUES ('12', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-5<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000006.jpg', 'Y003', '100', 'no', null, '4', 'yes', '15', '294');
+INSERT INTO `t_goods` VALUES ('13', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-4<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000003.jpg', 'Y', '100', 'no', null, '4', 'yes', '0', '200');
+INSERT INTO `t_goods` VALUES ('14', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000003.jpg', 'Y003', '100', 'no', null, '4', 'yes', '0', '150');
+INSERT INTO `t_goods` VALUES ('15', '中国象棋', '商品名称：中国象棋<br />\r\n上市时间：2017-3<br />\r\n产地：中国<br />\r\n<br />', '/upload/20138000000000.jpg', 'Y003', '100', 'no', null, '4', 'no', '10', '110');
 
 -- ----------------------------
 -- Table structure for t_liuyan
@@ -157,18 +157,18 @@ CREATE TABLE `t_order` (
 -- ----------------------------
 -- Records of t_order
 -- ----------------------------
-INSERT INTO `t_order` VALUES ('3', '20170503145900', '2017-05-03 14:59:00', 'ping', '500', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('4', '20170503145937', '2017-05-03 14:59:37', 'ping', '680', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('5', '20170503150009', '2017-05-03 15:00:09', 'ping', '420', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('8', '20170508222339', '2017-05-08 22:23:39', 'ping', '100', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('9', '20170510224103', '2017-05-10 22:41:03', 'ping', '220', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('10', '20170510225135', '2017-05-10 22:51:35', 'ping', '240', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('11', '20170521000234', '2017-05-21 00:02:34', 'shou', '110', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('12', '20170521000456', '2017-05-21 00:04:56', 'shou', '100', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('13', '20170523163845', '2017-05-23 16:38:45', 'yes', '210', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('14', '20170523195429', '2017-05-23 19:54:29', 'no', '75', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('15', '20170605154630', '2017-06-05 15:46:30', 'shou', '110', '山西太原', '货到付款', '7');
-INSERT INTO `t_order` VALUES ('16', '20181127082816', '2018-11-27 08:28:16', 'yes', '430', '湖北省荆州市', '货到付款', '12');
+INSERT INTO `t_order` VALUES ('3', '20138000000000', '2017-05-03 14:59:00', 'ping', '500', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('4', '20138000000007', '2017-05-03 14:59:37', 'ping', '680', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('5', '20138000000009', '2017-05-03 15:00:09', 'ping', '420', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('8', '20138000000009', '2017-05-08 22:23:39', 'ping', '100', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('9', '20138000000003', '2017-05-10 22:41:03', 'ping', '220', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('10', '20138000000005', '2017-05-10 22:51:35', 'ping', '240', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('11', '20138000000004', '2017-05-21 00:02:34', 'shou', '110', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('12', '20138000000006', '2017-05-21 00:04:56', 'shou', '100', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('13', '20138000000005', '2017-05-23 16:38:45', 'yes', '210', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('14', '20138000000009', '2017-05-23 19:54:29', 'no', '75', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('15', '20138000000000', '2017-06-05 15:46:30', 'shou', '110', '山西太原', '货到付款', '7');
+INSERT INTO `t_order` VALUES ('16', '20138000000006', '2018-11-27 08:28:16', 'yes', '430', '湖北省荆州市', '货到付款', '12');
 INSERT INTO `t_order` VALUES ('17', '20220922095129', '2022-09-22 09:51:29', 'no', '230', '山西省太原市', '货到付款', '7');
 
 -- ----------------------------
@@ -269,7 +269,7 @@ CREATE TABLE `t_user` (
 -- ----------------------------
 -- Records of t_user
 -- ----------------------------
-INSERT INTO `t_user` VALUES ('7', 'wxl', '12345', '0', '王小林', '山西省太原市', '男', '13800000001', 'user1@example.com', '13800000001', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 08:26:48', '2017-05-02 14:37:09', null, null);
-INSERT INTO `t_user` VALUES ('8', 'zjk', '1234', '0', '张健康', '湖南省长沙市', '男', '13800000002', 'user2@example.com', '947342283', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 08:27:14', '2017-05-03 14:56:54', null, null);
-INSERT INTO `t_user` VALUES ('9', 'lyx', '123456', '0', '刘易笑', '湖北省黄石市', '女', '13800000003', 'user3@example.com', '3438829349', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 22:55:03', '2018-11-27 22:55:03', null, null);
-INSERT INTO `t_user` VALUES ('10', 'teset', '111111', '0', '王测试', '湖北省咸宁市', '男', '13800000004', 'user4@example.com', '348483499', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 23:15:12', '2018-11-27 22:56:15', null, null);
+INSERT INTO `t_user` VALUES ('7', 'wxl', '12345', '0', '王小林', '山西省太原市', '男', '13800000000', 'user1@example.com', '13800000000', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 08:26:48', '2017-05-02 14:37:09', null, null);
+INSERT INTO `t_user` VALUES ('8', 'zjk', '1234', '0', '张健康', '湖南省长沙市', '男', '13800000000', 'user2@example.com', '947342283', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 08:27:14', '2017-05-03 14:56:54', null, null);
+INSERT INTO `t_user` VALUES ('9', 'lyx', '123456', '0', '刘易笑', '湖北省黄石市', '女', '13800000000', 'user3@example.com', '3438829349', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 22:55:03', '2018-11-27 22:55:03', null, null);
+INSERT INTO `t_user` VALUES ('10', 'teset', '111111', '0', '王测试', '湖北省咸宁市', '男', '13800000000', 'user4@example.com', '348483499', null, null, null, null, 'no', null, null, null, null, null, null, null, null, '2018-11-27 23:15:12', '2018-11-27 22:56:15', null, null);
